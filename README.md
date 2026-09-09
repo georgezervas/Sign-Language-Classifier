@@ -32,7 +32,7 @@ iv)matplotlib   (for data visualization - loss curve)
 **How to run :**
 
 Make sure you clone this repository to your local machine : git clone 
-You must have both the dataset files, train_signs.h5 and test_signs.h5, into the root directory.In the same folder as main.
+You must have both the dataset files, train_signs.h5 and test_signs.h5, into the root directory, in the same folder as main.
     
 Install the follow requirements : pip install tensorflow numpy h5py matplotlib
 
