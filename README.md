@@ -14,30 +14,30 @@ layer contains 25 neurons and the second has 12. The output layer has 6, each on
 
 Optimization techniques that used , in order to make our model as accurate as possible:
 
-i)mini batch gradient descent
+i)**mini batch gradient descent**
 
-ii)adam optimizer
+ii)**adam optimizer**
 
 **Libraries :**
 
-i)h5py          (for loading tha datase files)
+i)**h5py **         (for loading tha datase files)
 
-ii)numpy        (for numerical and matrix operations)
+ii)**numpy  **      (for numerical and matrix operations)
 
-iii)tensorflow  (for building and training the neural network)
+iii)**tensorflow**  (for building and training the neural network)
 
-iv)matplotlib   (for data visualization - loss curve)
+iv)**matplotlib**   (for data visualization - loss curve)
 
 
 
 **How to run :**
 
 Make sure you clone this repository to your local machine : git clone 
-You must have both the dataset files, train_signs.h5 and test_signs.h5, into the root directory, in the same folder as main.
+You must have both the dataset files,** train_signs.h5 and test_signs.h5**, into the root directory, in the same folder as main.
     
-Install the follow requirements : pip install tensorflow numpy h5py matplotlib
+Install the follow requirements :** pip install tensorflow numpy h5py matplotlib**
 
-Run the script : python main.py
+Run the script :** python main.py**
 
 **Conclusion**
 
