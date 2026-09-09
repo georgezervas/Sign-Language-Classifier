@@ -20,9 +20,13 @@ ii)adam optimizer
 **Libraries :**
 
 i)h5py          (for loading tha datase files)
+
 ii)numpy        (for numerical and matrix operations)
+
 iii)tensorflow  (for building and training the neural network)
+
 iv)matplotlib   (for data visualization - loss curve)
+
 
 
 **How to run :**
