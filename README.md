@@ -15,6 +15,7 @@ layer contains 25 neurons and the second has 12. The output layer has 6, each on
 Optimization techniques that used , in order to make our model as accurate as possible:
 
 i)mini batch gradient descent
+
 ii)adam optimizer
 
 **Libraries :**
