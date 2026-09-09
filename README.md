@@ -1,7 +1,7 @@
 **General Info about the project :** 
 
 This project was developed during the **Deep Learning Specialization** course by Andrew Ng.It applies the theoretical 
-concepts of forward propagation, backpropagation and optimization algorithms tαught during the course, using the TensorFlow.
+concepts of forward propagation, backpropagation and optimization algorithms taught during the course, using the TensorFlow.
 This Deep Neural Network in python designed for image classification. The model is trained on a dataset of sign language
 digits and classifies hand gestures into one of six categories(0 - 5).
 
