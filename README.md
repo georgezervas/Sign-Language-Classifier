@@ -32,7 +32,7 @@ iv)**matplotlib**   (for data visualization - loss curve)
 
 **How to run :**
 
-Make sure you clone this repository to your local machine : git clone 
+Make sure you clone this repository to your local machine : git clone https://github.com/georgezervas/Sign-Language-Classifier.
 You must have both the dataset files,**train_signs.h5 and test_signs.h5**, into the root directory, in the same folder as main.
     
 Install the follow requirements :**pip install tensorflow numpy h5py matplotlib**
@@ -41,7 +41,7 @@ Run the script :**python main.py**
 
 **Conclusion**
 
-During training, the loss started at 46.589901 and converged to (). Of course if you change the learnign rate,the starting 
+During training, the loss started at 46.589901 and converged to 1.791779 . Of course if you change the learnign rate,the starting 
 and final loss would be different. We initialize the learning rate = 0.0001.Even if it is relatively low,the Adam 
 itselfs  optimizes the learning rate to its best value.
 
